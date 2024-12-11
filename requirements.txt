@@ -2,3 +2,4 @@ tele
 telebot
 aiogram
 sqlalchemy
+aiosqlite
