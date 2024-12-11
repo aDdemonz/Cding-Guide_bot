@@ -1,3 +1,4 @@
 tele
 telebot
 aiogram
+sqlalchemy
