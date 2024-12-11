@@ -9,8 +9,8 @@ storage = MemoryStorage()
 
 DATABASE_PATH = "data/database.db"
 
-ADMIN_USER_IDS = [7801986359, 78019863591]  # Using a tuple
-ADMIN_USERNAMES = ["admin1", "admin2", "admin3"]
+ADMIN_USER_IDS = [7801986359, 7373800700]  # Using a tuple
+ADMIN_USERNAMES = ["mbznk", "mr_streetprofit", "admin3"]
 
 
 
